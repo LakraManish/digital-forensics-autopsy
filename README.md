@@ -1,4 +1,4 @@
-# digital-forensics-autopsy
+# Digital-forensics-autopsy
 
 ## Overview
 This repository documents a host-based digital forensics investigation
